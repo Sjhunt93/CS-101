@@ -16,3 +16,5 @@ Inserting:
 
 Memory:
     lists take up more room for the same number of elements.
+
+todo
